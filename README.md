@@ -4,7 +4,7 @@
 ## Business Analyst | Data Analyst  
 (Transforming business data into actionable insights for informed decision-making)
 
--📍 Ibadan, Oyo State, Nigeria
+- 📍 Ibadan, Oyo State, Nigeria
 
 - 📧 oginniadekola@gmail.com
 
