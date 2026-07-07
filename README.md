@@ -15,4 +15,7 @@
 - GitHub: github.com/OginniAdekola
 
 ---
+## CAREER SUMMARY
+I am a Business Analyst with over three years of leadership and operational management experience, complemented by practical expertise in SQL, Excel, and data analysis. My experience spans business reporting, operational performance monitoring, and technical problem-solving, enabling me to translate business needs into data-driven solutions.
 
+I have worked extensively with structured datasets to uncover trends, evaluate business performance, and provide recommendations that improve operational efficiency. Currently expanding my expertise in Power BI and business intelligence, I am committed to helping organizations make smarter decisions through analytics and continuous improvement.
